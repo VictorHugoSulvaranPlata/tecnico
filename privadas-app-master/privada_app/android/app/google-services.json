@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1096260124709",
+    "firebase_url": "https://flutterfacebook-9749a.firebaseio.com",
+    "project_id": "flutterfacebook-9749a",
+    "storage_bucket": "flutterfacebook-9749a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096260124709:android:5f8f866eb79129864d7fcc",
+        "android_client_info": {
+          "package_name": "com.example.facebooklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096260124709-4qb575vksh9kinof68m378k04tfakbsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhrRVfwrAYfcucmG7MZUsGYx47njanH3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096260124709-4qb575vksh9kinof68m378k04tfakbsl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096260124709-ahfs5fjv62o59eied0bmq0ohje6mfi7q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.facebooklogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
